@@ -1,7 +1,7 @@
 # Instructions #
 
 --Packages-----------------------------------------------------
-sudo apt install feh terminator git lxappearance compton compton-conf sublime-text
+sudo apt install feh terminator git lxappearance compton compton-conf sublime-text fonts-powerline powerline zsh
 ---------------------------------------------------------------
 
 --.Xresources -------------------------------------------------

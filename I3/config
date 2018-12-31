@@ -171,5 +171,5 @@ position top
 
 # Autoload programs
 
-exec --no-startup-id nitrogen ~/Pictures/stardock.jpg
+exec_always feh --bg-scale /home/ogre14t/Pictures/stardock.jpg
 exec_always compton

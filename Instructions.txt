@@ -8,3 +8,5 @@ Use this to replace all current settings with xresources
 xrdb ~/.Xresources
 
 ---------------------------------------------------------------
+
+

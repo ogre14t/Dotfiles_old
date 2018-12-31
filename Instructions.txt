@@ -1,5 +1,9 @@
 # Instructions #
 
+--Packages-----------------------------------------------------
+sudo apt install feh terminator git lxappearance compton compton-conf sublime-text
+---------------------------------------------------------------
+
 --.Xresources -------------------------------------------------
 Use this to merge xresources settings with current settings
 xrdb -merge ~/.Xresources

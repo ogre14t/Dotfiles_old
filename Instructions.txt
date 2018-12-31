@@ -1,0 +1,10 @@
+# Instructions #
+
+--.Xresources -------------------------------------------------
+Use this to merge xresources settings with current settings
+xrdb -merge ~/.Xresources
+
+Use this to replace all current settings with xresources
+xrdb ~/.Xresources
+
+---------------------------------------------------------------

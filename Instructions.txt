@@ -1,7 +1,7 @@
 # Instructions #
 
 --Packages-----------------------------------------------------
-sudo apt install feh terminator git lxappearance compton compton-conf sublime-text fonts-powerline powerline zsh
+sudo pacman -S feh terminator git lxappearance compton compton-conf sublime-text-3 rofi fonts-powerline powerline zsh
 ---------------------------------------------------------------
 
 --.Xresources -------------------------------------------------
@@ -13,4 +13,15 @@ xrdb ~/.Xresources
 
 ---------------------------------------------------------------
 
+--fstab--------------------------------------------------------
+https://home.rogerdodger.org:5006 /home/ogre14t/rogerdodger	davfs	defaults,user,uid=ogre14t,gid=ogre14t,_netdev,auto 0	0
+
+Set up secrets
+
+---------------------------------------------------------------
+
+-- Non pacman downloads----------------------------------------
+pywal
+oh my zsh
+---------------------------------------------------------------
 
